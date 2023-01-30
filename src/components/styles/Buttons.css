@@ -30,11 +30,11 @@
   height: 50px;
   border-radius: 10px;
   color: white;
-  background-color: #6dd5ed;
+  background-color: #030303;
 }
 
 .btn:hover {
-  background-color: #6dd5ed;
+  background-color: #030303;
   color: white;
   transition: background-color 0.3s ease;
 }
